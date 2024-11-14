@@ -1,0 +1,7 @@
+SELECT *
+FROM public."users"
+WHERE
+gender in ('{{MultiSelect1.selectedOptionValues.join("','")}}')
+AND country in ('{{MultiSelect1Copy.selectedOptionValues.join(("','"))}}')
+AND name in ('{{MultiSelect2.selectedOptionValues.join(("','"))}}')
+LIMIT 10;

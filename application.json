@@ -1,0 +1,59 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F5D1D1",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Page4",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Page5",
+      "isDefault": false
+    },
+    {
+      "id": "Page6",
+      "isDefault": false
+    },
+    {
+      "id": "Page7",
+      "isDefault": false
+    },
+    {
+      "id": "Page8",
+      "isDefault": false
+    },
+    {
+      "id": "Page9",
+      "isDefault": false
+    },
+    {
+      "id": "Page10",
+      "isDefault": false
+    },
+    {
+      "id": "Page11",
+      "isDefault": false
+    },
+    {
+      "id": "Page12",
+      "isDefault": false
+    },
+    {
+      "id": "Page13",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  }
+}
